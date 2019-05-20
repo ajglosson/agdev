@@ -1,0 +1,50 @@
+.icon-right {
+    padding: 0 14px;
+}
+  
+.spacer {
+    flex: 1 1 auto;
+}
+
+.agdev-body {
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    border-color: #673ab7;
+    border-width: 10px;
+}
+
+.photo {
+    max-width: 295px;
+    width: 33%;
+    float: left;
+    display: block;
+    margin: 0 10px;
+}
+
+.list {
+    float: left;
+    display: block;
+    margin: 0 10px;
+}
+
+.ul-list {
+    list-style: none;
+    padding-inline-start: 0;
+}
+
+.list-icon-right {
+    padding: 0 5px 0 0;
+}
+
+.list-icon-wrapper {
+    margin: 0 0;
+    width: 26px;
+    display: inline-block;
+    text-align: center;
+}
+
+
+
